@@ -8,7 +8,8 @@
     border: 2px solid #1a1a1aff;
     margin-bottom: 12px;
     padding: 12px 25px;
-    width: 30%;
+    min-width: fit-content;
+    width: 40%;
 }
 
 .navMenu {

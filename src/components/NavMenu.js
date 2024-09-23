@@ -1,4 +1,4 @@
-import styles from './../styles/style.module.css';
+import styles from '@/styles/style.module.css';
 import Link from "next/link";
 
 export default function NavMenu ()
@@ -12,6 +12,8 @@ export default function NavMenu ()
             <Link href={"/about"}> About </Link>
             <Link href={"/contact"}> Contact </Link>
             <Link href={"/footer"}> Footer </Link>
+            <Link href={"/page"}> Page </Link>
+            <Link href={"/produkty"}> Produkty </Link>
         </div>
     )
 }
