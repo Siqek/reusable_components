@@ -5,8 +5,8 @@
     flex-direction: column;
     gap: 6px;
 
-    border: 2px solid #1a1a1aff;
-    margin-bottom: 12px;
+    border: 2px solid;
+    margin-bottom: 8px;
     padding: 12px 25px;
     min-width: fit-content;
     width: 40%;

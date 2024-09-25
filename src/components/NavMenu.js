@@ -14,6 +14,7 @@ export default function NavMenu ()
             <Link href={"/footer"}> Footer </Link>
             <Link href={"/page"}> Page </Link>
             <Link href={"/produkty"}> Produkty </Link>
+            <Link href={"/uslugi"}> Usługi </Link>
         </div>
     )
 }
